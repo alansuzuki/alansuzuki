@@ -1,8 +1,14 @@
 ## Hi, i'am Alan a Tech Student on FATEC Indaiatuba. 
+
+
 2/6 semester at ADS graduation.
 
 Currently working as Quality Monitor on Teleperformance
+
 Still learning how to code. 
+
+From Yokohama- JPN
+
 
 <!--
 **alansuzuki/alansuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
