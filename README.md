@@ -1,7 +1,7 @@
 ## Hi, i'am Alan a Tech Student on FATEC Indaiatuba. 
 
 
-2/6 semester at ADS graduation.
+3/6 semester at ADS graduation.
 
 Currently working as Quality Monitor on Teleperformance
 
